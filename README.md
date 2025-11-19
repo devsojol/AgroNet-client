@@ -25,6 +25,10 @@ AgroNet-client is a modern web application that connects farmers, traders, and c
 - **Authentication:** Firebase Authentication
 - **Hosting:** Netlify (client) & Vercel (server)
 
+📸 Screenshots
+
+![Homepage Screenshot](https://github.com/devsojol/AgroNet-client/blob/main/public/screenshots/homepage.png)
+
 🚀 Installation & Setup
 
 Clone the repository:
