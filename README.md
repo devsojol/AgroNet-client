@@ -25,6 +25,26 @@ AgroNet-client is a modern web application that connects farmers, traders, and c
 - **Authentication:** Firebase Authentication
 - **Hosting:** Netlify (client) & Vercel (server)
 
+🚀 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/your-username/agro-net-client.git
+
+Navigate to the project directory:
+
+cd agro-net-client
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
+npm start
+
+Open http://localhost:3000 to view in browser.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
